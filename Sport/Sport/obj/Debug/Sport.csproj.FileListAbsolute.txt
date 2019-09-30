@@ -1,0 +1,7 @@
+C:\Users\dcarpov\Desktop\OOP_refactored_homework\Sport\Sport\bin\Debug\Sport.exe.config
+C:\Users\dcarpov\Desktop\OOP_refactored_homework\Sport\Sport\bin\Debug\Sport.exe
+C:\Users\dcarpov\Desktop\OOP_refactored_homework\Sport\Sport\bin\Debug\Sport.pdb
+C:\Users\dcarpov\Desktop\OOP_refactored_homework\Sport\Sport\obj\Debug\Sport.csprojAssemblyReference.cache
+C:\Users\dcarpov\Desktop\OOP_refactored_homework\Sport\Sport\obj\Debug\Sport.csproj.CoreCompileInputs.cache
+C:\Users\dcarpov\Desktop\OOP_refactored_homework\Sport\Sport\obj\Debug\Sport.exe
+C:\Users\dcarpov\Desktop\OOP_refactored_homework\Sport\Sport\obj\Debug\Sport.pdb
